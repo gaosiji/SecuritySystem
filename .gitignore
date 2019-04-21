@@ -16,5 +16,7 @@ common/.settings/**
 *.iml
 *.iws
 
+
+*** test
 .DS_Store
 Thumbs.db
